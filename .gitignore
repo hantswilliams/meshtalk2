@@ -1,0 +1,6 @@
+# ignore the pretrained_models folder
+pretrained_models/
+
+# ignore ds_store files
+.DS_Store
+*.DS_Store
