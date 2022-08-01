@@ -1,0 +1,5 @@
+ffmpeg
+numpy
+torch==1.11.0
+pytorch3d==0.6.2
+torchaudio==0.10.0
