@@ -57,3 +57,11 @@ A subset of the data (13 subjects) has been released as our [Multiface](https://
 
 The code and dataset are released under [CC-NC 4.0 International license](https://github.com/facebookresearch/BinauralSpeechSynthesis/blob/main/LICENSE).
 
+
+
+
+### notes for self to organize 
+- use this based on computer trying to run on: 
+```
+pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cpu
+```
